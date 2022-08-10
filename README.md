@@ -1,4 +1,8 @@
-🇧🇷 ![](https://img.shields.io/static/v1?label=ACTIVITY&message=CONSTRUCTION-TESTES&color=<COLOR>)
+![](https://img.shields.io/static/v1?label=ACTIVITY&message=CONSTRUCTION-TESTES&color=<COLOR>)
+
+✍🏽 Autor: Yan Justino  
+📅 Data: 09/08/2022  
+🇧🇷Idioma:  pt-br
 
 ### 📌 CONTEXTO
 
